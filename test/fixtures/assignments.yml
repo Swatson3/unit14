@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  deadline: 2014-12-08 02:33:06
+  page_length: 1
+  class: 
+
+two:
+  name: MyString
+  deadline: 2014-12-08 02:33:06
+  page_length: 1
+  class: 

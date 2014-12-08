@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meet_time: 2014-12-08 02:37:37
+  meet_day: 2014-12-08
+  assignment: 
+  student: 
+
+two:
+  meet_time: 2014-12-08 02:37:37
+  meet_day: 2014-12-08
+  assignment: 
+  student: 
